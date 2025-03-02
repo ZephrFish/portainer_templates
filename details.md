@@ -44,6 +44,7 @@
 | PrejectSend       	|          	|                 	|
 | ProtonMail Bridge 	|          	|                 	|
 | Trilium Notes     	|          	|                 	|
+
 **Downloaders**
 | **Title**     	| **Type** 	| **Description** 	|   	|   	| **Title**          	| **Type** 	| **Description** 	|
 |---------------	|----------	|-----------------	|---	|---	|--------------------	|----------	|-----------------	|
